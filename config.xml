@@ -11,12 +11,12 @@
 		<application android:debuggable="true" />
 	</gap:config-file>		
 	
-	<name>JG Boilerplate Ionic Material</name>
+	<name>eReg Nigeria</name>
 	<description>
-		A JoomGap starter project to create a hybrid mobile app for Joomla! CMS, powered by Cordova/PhoneGap, AngularJS, Ionic Framework and Ionic Material. 
+		The e-Reg is a private initiative of Stravcom Ltd in conjunction with Ease Web Solutions. 
 	</description>
-    <author email="team@extly.com" href="http://www.extly.com/">
-		Extly Extensions
+    <author email="admin@easesites.com" href="http://www.easesites.com/">
+		Ease Web Solutions
     </author>
     
     <content src="index.html" />    
