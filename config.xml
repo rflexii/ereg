@@ -11,7 +11,7 @@
 		<application android:debuggable="true" />
 	</gap:config-file>		
 	
-	<name>eReg Nigeria</name>
+	<name>Enforment - eReg Nigeria</name>
 	<description>
 		The e-Reg is a private initiative of Stravcom Ltd in conjunction with Ease Web Solutions. 
 	</description>
